@@ -1,0 +1,13 @@
+# emacs files
+*~
+\#*\#
+.\#*
+
+
+# Folders
+bower_components
+build
+node_modules
+reportcoverage
+
+

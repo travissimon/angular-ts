@@ -1,0 +1,7 @@
+/// <reference path="../../typings/app.d.ts" />
+(function () {
+    app.Module.create('app.components.stacktrace', [
+    ]);
+})();
+
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImNvbXBvbmVudHMvc3RhY2t0cmFjZS9zdGFja3RyYWNlLm1vZHVsZS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSwrQ0FBK0M7QUFFL0MsQ0FBQztJQUNBLEdBQUcsQ0FBQyxNQUFNLENBQUMsTUFBTSxDQUFDLDJCQUEyQixFQUFFO0tBQzlDLENBQUMsQ0FBQztBQUVKLENBQUMsQ0FBQyxFQUFFLENBQUEiLCJmaWxlIjoiY29tcG9uZW50cy9zdGFja3RyYWNlL3N0YWNrdHJhY2UubW9kdWxlLmpzIiwic291cmNlc0NvbnRlbnQiOlsiLy8vIDxyZWZlcmVuY2UgcGF0aD1cIi4uLy4uL3R5cGluZ3MvYXBwLmQudHNcIiAvPlxuXG4oKCk6IHZvaWQgPT4ge1xuXHRhcHAuTW9kdWxlLmNyZWF0ZSgnYXBwLmNvbXBvbmVudHMuc3RhY2t0cmFjZScsIFtcblx0XSk7XG5cbn0pKClcbiJdLCJzb3VyY2VSb290IjoiL3NvdXJjZS8ifQ==

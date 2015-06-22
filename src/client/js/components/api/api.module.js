@@ -1,0 +1,7 @@
+/// <reference path="../../typings/app.d.ts" />
+(function () {
+    app.Module.create('app.components.api', [
+    ]);
+})();
+
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImNvbXBvbmVudHMvYXBpL2FwaS5tb2R1bGUudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsK0NBQStDO0FBRS9DLENBQUM7SUFDQSxHQUFHLENBQUMsTUFBTSxDQUFDLE1BQU0sQ0FBQyxvQkFBb0IsRUFBRTtLQUN2QyxDQUFDLENBQUM7QUFDSixDQUFDLENBQUMsRUFBRSxDQUFBIiwiZmlsZSI6ImNvbXBvbmVudHMvYXBpL2FwaS5tb2R1bGUuanMiLCJzb3VyY2VzQ29udGVudCI6WyIvLy8gPHJlZmVyZW5jZSBwYXRoPVwiLi4vLi4vdHlwaW5ncy9hcHAuZC50c1wiIC8+XG5cbigoKTogdm9pZCA9PiB7XG5cdGFwcC5Nb2R1bGUuY3JlYXRlKCdhcHAuY29tcG9uZW50cy5hcGknLCBbXG5cdF0pO1xufSkoKVxuIl0sInNvdXJjZVJvb3QiOiIvc291cmNlLyJ9
